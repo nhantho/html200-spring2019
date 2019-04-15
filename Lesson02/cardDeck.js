@@ -15,3 +15,4 @@ for (var i = 0; i < valuesLength; i++) {
 for (var i = 0; i < valuesLength; i++) {
         console.log(values[i]+suits[3]);
     }
+ 
